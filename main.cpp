@@ -28,7 +28,7 @@ bool deserialize(const DataNode& node, Vector3& value)
     value.y = atof(node.get_property(1).c_str());
     value.z = atof(node.get_property(2).c_str());
     return true;
-}
+} 
 
 
 void serialize(DataNode& node, const Vector3& value)
