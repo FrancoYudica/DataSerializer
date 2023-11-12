@@ -1,3 +1,0 @@
-D:/Dev/Proyects/DataSerializer/build/CMakeFiles/DataSerializer.dir
-D:/Dev/Proyects/DataSerializer/build/CMakeFiles/edit_cache.dir
-D:/Dev/Proyects/DataSerializer/build/CMakeFiles/rebuild_cache.dir
