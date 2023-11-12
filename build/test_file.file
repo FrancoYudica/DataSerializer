@@ -1,0 +1,27 @@
+
+some_node
+{
+	name = "Javid, Yudica"
+	age = 24.000000
+	height = 1.880000
+	code = C++, C#, Assembly
+
+	pc
+	{
+		processor = intel
+		ram = 32.000000
+	}
+
+	similar_thing_count = 10.000000
+	similar_thing_[0] = 41.000000
+	similar_thing_[1] = 18467.000000
+	similar_thing_[2] = 6334.000000
+	similar_thing_[3] = 26500.000000
+	similar_thing_[4] = 19169.000000
+	similar_thing_[5] = 15724.000000
+	similar_thing_[6] = 11478.000000
+	similar_thing_[7] = 29358.000000
+	similar_thing_[8] = 26962.000000
+	similar_thing_[9] = 24464.000000
+}
+
